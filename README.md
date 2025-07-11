@@ -5,3 +5,5 @@
 <img width="351" height="677" alt="image" src="https://github.com/user-attachments/assets/4fdeb13e-582b-44ee-ab94-c6f812bd9a13" />
 
 
+3. file export stl /  selection only, scale 1 (mm) scale 10 (cm)
+4. Vérifier les dimmensions dans thinkercad (new/import) puis controler les dimmensions sur la grille.
