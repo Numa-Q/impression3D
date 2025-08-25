@@ -1,6 +1,8 @@
 Voici une réponse **expert**, **très structurée** et **détaillée**, comme tu l’as demandé :
 
 ---
+https://eolasprints.com/fr-fr/products/filament-tpu-flex-shore-d60-resistant-uv?variant=49892142055751
+40€ environ
 
 ## 1. TPU compatibles avec la Bambu Lab A1 Mini
 
